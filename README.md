@@ -41,19 +41,35 @@ Link: [Google][googlelink]
 아래는 예시 입니다.
 
 ```
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+# H1
+##  H2
+###  H3
+####  H4
+#####  H5
+######  H6
 
 ```
 
-# This is a H1
-## This is a H2
-### This is a H3
-#### This is a H4
-##### This is a H5
-###### This is a H6
+# H1
+##  H2
+###  H3
+####  H4
+#####  H5
+######  H6
+
+### 2. 블럭인용문자
+
+">" 를 이용함으로서 아래 예시와 같은 표현이 가능합니다.
+
+> 예시입니다.
+>  > 예시입니다.
+>  >  > 예시입니다.
+
+### 3. 목록
+
+단순히 숫자를 이용하여 목록을 나타 낼 수 있습니다.
+
+1.일번
+2.이번
+3.삼번
 
