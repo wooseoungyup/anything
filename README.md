@@ -112,7 +112,7 @@ Link: [Google][googlelink]
     - 파랑
 
 
-### 코드블럭
+### 4.코드블럭
 기호 \``` ``` 를 이용하여 코드블럭을 이용할 수 있습니다.
 
 <pre>
@@ -126,3 +126,21 @@ Link: [Google][googlelink]
 ```
 이렇게 사용 할 수 있습니다.
 ```
+
+### 5.링크
+
+1. 참조링크
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "구글가요"
+```
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "구글가요"
+
