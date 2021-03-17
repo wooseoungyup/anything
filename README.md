@@ -166,3 +166,17 @@ Link: [Google][googlelink]
 * 이메일링크: <address@example.com>
 
 
+### 6. 이미지
+아래와 같이 사용가능합니다.
+
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+
+***
+#### 참고 자료 출처
+아래의 링크의 자료를 참고하여 작성하였습니다.
+<https://gist.github.com/ihoneymon/652be052a0727ad59601>
+
+
