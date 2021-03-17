@@ -19,3 +19,6 @@ this is an H2
 > ### this is H3
 
 ***
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
